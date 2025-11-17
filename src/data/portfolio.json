@@ -1,0 +1,119 @@
+{
+	"profile": {
+		"name": "Nusrat Jahan Riya",
+		"title": "PhD Student & Graduate Teaching Assistant",
+		"institution": "University of Texas at San Antonio",
+		"email": "nusrat.riya@northsouth.edu",
+		"avatar": "AS",
+		"bio": "I am a PhD student and Graduate Teaching Assistant in the Department of Computer Science at the University of Texas at San Antonio. My research focuses on Explainable AI, Trustworthy Machine Learning, and Medical Image Analysis.",
+		"background": "Before joining UTSA, I worked as a Senior Software Engineer in Bangladesh, where I gained extensive experience in developing scalable software solutions. I received my B.Sc. in Computer Science and Engineering from Khulna University of Engineering & Technology.",
+		"specialties": [
+			"Explainable AI",
+			"Trustworthy ML",
+			"Medical Imaging"
+		]
+	},
+	"last_updated_at": "November 17, 2025",
+	"research_interests": [
+		"Explainable Artificial Intelligence (XAI)",
+		"Trustworthy Machine Learning",
+		"Deep Learning",
+		"Computer Vision",
+		"Medical Image Analysis"
+	],
+	"social_links": {
+		"email": {
+			"name": "Email",
+			"url": "mailto:nusrat.riya@northsouth.edu",
+			"icon": "Mail",
+			"external": false
+		},
+		"google": {
+			"name": "Google Scholar",
+			"url": "https://scholar.google.com/citations?user=JCWWcdgAAAAJ",
+			"icon": "BookOpen",
+			"external": true
+		},
+		"github": {
+			"name": "GitHub",
+			"url": "https://github.com/RiyaNusrat",
+			"icon": "Github",
+			"external": true
+		},
+		"linkedIn": {
+			"name": "LinkedIn",
+			"url": "https://www.linkedin.com/in/nusrat-jahan-riya",
+			"icon": "Linkedin",
+			"external": true
+		}
+	},
+	"publications": [
+		{
+			"title": "Artificial Intelligence-Based Early Detection of Dengue Using CBC Data",
+			"authors": "Nusrat Jahan Riya; Mritunjoy Chakraborty; Riasat Khan",
+			"doi": "10.1109/ACCESS.2024.3443299",
+			"year": "2024",
+			"abstract": "Dengue fever is a tropical mosquito-transmitted disease spread through the Aedes mosquito, where the human body works as the primary host. Each year, densely populated countries such as Bangladesh, Thailand, and India, particularly in the Southeast Asian region, experience the majority of dengue outbreaks worldwide.",
+			"links": {
+				"paper": "https://ieeexplore.ieee.org/abstract/document/10636159",
+				"code": "#"
+			}
+		}
+	],
+	"experience": [
+		{
+			"title": "Research Assistant",
+			"institution": "Department of Electrical and Computer Engineering, North South University",
+			"start_date": "February 2024",
+			"end_date": "Present",
+			"description": "Conducting advanced research in artificial intelligence and machine learning with focus on medical applications and explainable AI systems. Working closely with faculty members and graduate students on cutting-edge research projects.",
+			"location": "Dhaka, Bangladesh",
+			"key_points": [
+				"Developing novel algorithms for explainable AI in medical image analysis",
+				"Collaborating with interdisciplinary research teams to publish findings in peer-reviewed journals",
+				"Implementing deep learning models for dengue fever early detection using CBC data",
+				"Presenting research findings at international conferences and workshops"
+			]
+		},
+		{
+			"title": "Data Analyst",
+			"institution": "The Data Island",
+			"start_date": "March 2023",
+			"end_date": "January 2024",
+			"description": "Analyzed complex datasets to extract meaningful insights and support data-driven decision making. Developed automated reporting systems and predictive models for business intelligence applications.",
+			"location": "Dhaka, Bangladesh",
+			"key_points": [
+				"Designed and implemented data visualization dashboards using modern BI tools",
+				"Performed statistical analysis and A/B testing for product optimization",
+				"Developed machine learning models for customer behavior prediction",
+				"Collaborated with cross-functional teams to translate business requirements into analytical solutions"
+			]
+		}
+	],
+	"extracurricular_activities": [
+		{
+			"title": "Sub-Executive",
+			"organization": "Computer Engineering Club, NSU",
+			"role": "Sub-Executive",
+			"image": "/images/CEC_logo.png",
+			"start_date": "2022",
+			"end_date": "2023",
+			"description": "Actively participated in NSU Computer Engineering Club activities, contributing to the organization of technical events and workshops for students.",
+			"achievements": []
+		},
+		{
+			"title": "Freelance Content Writer",
+			"organization": "",
+			"role": "Writer",
+			"image": "/images/writer.png",
+			"start_date": "2019",
+			"end_date": "2022",
+			"description": "On a regular basis, I have contributed articles and blog posts focusing on technology trends, career advice, and research insights for",
+			"achievements": []
+		}
+	],
+	"contact": {
+		"email": "nusrat.riya@northsouth.edu",
+		"message": "Feel free to reach out for collaborations or just a friendly chat"
+	}
+}

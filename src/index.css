@@ -1,0 +1,103 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Enhanced base styles with professional typography */
+@layer base {
+	html {
+		scroll-behavior: smooth;
+		font-feature-settings:
+			"kern" 1,
+			"liga" 1,
+			"calt" 1;
+		text-rendering: optimizeLegibility;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+	}
+
+	/* Add scroll padding to account for fixed header */
+	section[id] {
+		scroll-margin-top: 2rem;
+	}
+
+	body {
+		@apply font-sans text-base leading-normal font-normal text-gray-900 bg-white;
+	}
+
+	/* Typography hierarchy using standardized Tailwind classes */
+	h1 {
+		@apply text-5xl font-bold text-gray-900 dark:text-white leading-tight tracking-tight;
+	}
+
+	h2 {
+		@apply text-4xl font-bold text-gray-900 dark:text-white leading-tight tracking-tight;
+	}
+
+	h3 {
+		@apply text-3xl font-semibold text-gray-900 dark:text-white leading-tight;
+	}
+
+	h4 {
+		@apply text-2xl font-semibold text-gray-900 dark:text-white leading-tight;
+	}
+
+	h5 {
+		@apply text-xl font-semibold text-gray-900 dark:text-white leading-tight;
+	}
+
+	h6 {
+		@apply text-lg font-semibold text-gray-900 dark:text-white leading-tight;
+	}
+
+	p {
+		@apply text-base leading-relaxed text-gray-700 dark:text-gray-300;
+	}
+
+	a {
+		@apply text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 transition-colors underline;
+	}
+
+	/* Focus styles */
+	*:focus {
+		@apply outline-none ring-2 ring-primary-500 ring-offset-2;
+	}
+}
+
+/* Professional component patterns */
+@layer components {
+	/* Button styles */
+	.btn {
+		@apply inline-flex items-center justify-center px-4 py-2 text-base font-medium rounded-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2;
+	}
+
+	.btn-primary {
+		@apply bg-primary-600 text-white hover:bg-primary-700 focus:ring-primary-500 shadow-sm;
+	}
+
+	.btn-secondary {
+		@apply bg-gray-100 text-gray-900 hover:bg-gray-200 focus:ring-gray-500 dark:bg-gray-800 dark:text-gray-100 dark:hover:bg-gray-700;
+	}
+
+	/* Card styles */
+	.card {
+		@apply bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 shadow-sm;
+	}
+
+	.card-body {
+		@apply p-6;
+	}
+
+	/* Section styles */
+	.section {
+		@apply py-12 lg:py-16;
+	}
+
+	.section-title {
+		@apply text-3xl sm:text-4xl font-bold mb-8;
+	}
+
+	/* Container styles */
+	.container-standard {
+		@apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+	}
+}
