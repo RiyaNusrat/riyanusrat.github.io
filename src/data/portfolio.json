@@ -7,11 +7,7 @@
 		"avatar": "AS",
 		"bio": "I am a PhD student and Graduate Teaching Assistant in the Department of Computer Science at the University of Texas at San Antonio. My research focuses on Explainable AI, Trustworthy Machine Learning, and Medical Image Analysis.",
 		"background": "Before joining UTSA, I worked as a Senior Software Engineer in Bangladesh, where I gained extensive experience in developing scalable software solutions. I received my B.Sc. in Computer Science and Engineering from Khulna University of Engineering & Technology.",
-		"specialties": [
-			"Explainable AI",
-			"Trustworthy ML",
-			"Medical Imaging"
-		]
+		"specialties": ["Explainable AI", "Trustworthy ML", "Medical Imaging"]
 	},
 	"last_updated_at": "November 17, 2025",
 	"research_interests": [

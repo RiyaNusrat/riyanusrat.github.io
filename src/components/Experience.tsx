@@ -92,7 +92,9 @@ function Experience() {
 						{/* Key Points */}
 						{exp.key_points && exp.key_points.length > 0 && (
 							<div>
-								<h4 className='text-gray-900 dark:text-white font-semibold text-base lg:text-lg mb-3'>Key Responsibilities</h4>
+								<h4 className='text-gray-900 dark:text-white font-semibold text-base lg:text-lg mb-3'>
+									Key Responsibilities
+								</h4>
 								<ul className='space-y-2 text-gray-700 dark:text-gray-300'>
 									{exp.key_points.map((point, pointIndex) => (
 										<li key={pointIndex} className='flex items-start text-sm lg:text-base'>

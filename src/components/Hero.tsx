@@ -25,14 +25,15 @@ function Hero() {
 					<div className='space-y-6 text-gray-700 dark:text-gray-300 leading-relaxed text-base sm:text-lg text-justify'>
 						<p>
 							I am a Computer Science graduate with interests in Artificial Intelligence and Machine Learning. I am
-							currently working as a Research Assitant under the supervision of <a
+							currently working as a Research Assitant under the supervision of{' '}
+							<a
 								href='https://scholar.google.com/citations?user=iyHpDugAAAAJ'
 								target='_blank'
 								rel='noopener noreferrer'
 								className='text-blue-400 hover:text-blue-300 underline transition-colors'>
 								Dr. Riasat Khan
-							</a>. I am interested in
-							research that solves real-world problems.
+							</a>
+							. I am interested in research that solves real-world problems.
 						</p>
 						<p>
 							I completed my B.Sc. in Computer Science and Engineering from{' '}
@@ -43,14 +44,14 @@ function Hero() {
 								className='text-blue-400 hover:text-blue-300 underline transition-colors'>
 								North South University (NSU)
 							</a>
-							. My undergraduate thesis introduced a custom medical dataset and explored ensemble, feature-selection, and transformer-driven modeling for early diagnosis. 
-							Currently, I am working on deep learning frameworks for task-specific medical imaging{' '}
-					
-							.
+							. My undergraduate thesis introduced a custom medical dataset and explored ensemble, feature-selection,
+							and transformer-driven modeling for early diagnosis. Currently, I am working on deep learning frameworks
+							for task-specific medical imaging .
 						</p>
 						<p>
-							I am curious about how machine learning and image processing can make healthcare more accurate and accessible.
-							 I’m still learning every day, and I’m excited to explore biomedical data, medical images, and AI techniques that can help improve precision in health.
+							I am curious about how machine learning and image processing can make healthcare more accurate and
+							accessible. I’m still learning every day, and I’m excited to explore biomedical data, medical images, and
+							AI techniques that can help improve precision in health.
 						</p>
 						<p>
 							Check out my{' '}
