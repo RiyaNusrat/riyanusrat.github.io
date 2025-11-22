@@ -61,24 +61,24 @@
 			"description": "Conducting advanced research in artificial intelligence and machine learning with focus on medical applications and explainable AI systems. Working closely with faculty members and graduate students on cutting-edge research projects.",
 			"location": "Dhaka, Bangladesh",
 			"key_points": [
-				"Developing novel algorithms for explainable AI in medical image analysis",
-				"Collaborating with interdisciplinary research teams to publish findings in peer-reviewed journals",
-				"Implementing deep learning models for dengue fever early detection using CBC data",
-				"Presenting research findings at international conferences and workshops"
+				"Deep Learning Frameworks for Task-Specific Medical Imaging ",
+				"LLM-Based Sentiment Analysis of People Due to Bangladesh’s Government Change ",
+				"Artificial Intelligence-Based Early Detection of Dengue Using CBC Data ",
+				"Admission Prediction for Master’s Candidates of Bangladesh"
 			]
 		},
+
 		{
 			"title": "Data Analyst",
 			"institution": "The Data Island",
-			"start_date": "March 2023",
-			"end_date": "January 2024",
+			"start_date": "March 2025",
+			"end_date": "August 2025",
 			"description": "Analyzed complex datasets to extract meaningful insights and support data-driven decision making. Developed automated reporting systems and predictive models for business intelligence applications.",
 			"location": "Dhaka, Bangladesh",
 			"key_points": [
+				"Extracted data from various sources such as APIs, databases",
 				"Designed and implemented data visualization dashboards using modern BI tools",
-				"Performed statistical analysis and A/B testing for product optimization",
-				"Developed machine learning models for customer behavior prediction",
-				"Collaborated with cross-functional teams to translate business requirements into analytical solutions"
+				"Assisted AI Engineers in preparing labeled datasets for model training"
 			]
 		}
 	],
@@ -100,7 +100,7 @@
 			"image": "/images/writer.png",
 			"start_date": "2019",
 			"end_date": "2022",
-			"description": "On a regular basis, I have contributed articles and blog posts focusing on technology trends, career advice, and research insights for",
+			"description": "On a regular basis, I have written articles and blog posts focusing on technology trends, sports, products, and research insights for",
 			"achievements": []
 		}
 	],
