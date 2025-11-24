@@ -179,7 +179,7 @@ function Header() {
 								Leadership
 							</a>
 							<a
-								href='/Resume_Nusrat_Jahan_Riya.pdf'
+								href='/Resume_Nusrat Jahan Riya.pdf'
 								target='_blank'
 								rel='noopener noreferrer'
 								className='no-underline text-base font-medium text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-all duration-200 relative hover:scale-105 animate-in fade-in slide-in-from-top delay-700'>
@@ -210,7 +210,7 @@ function Header() {
 								Leadership
 							</a>
 							<a
-								href='/Resume_Nusrat_Jahan_Riya.pdf'
+								href='/Resume_Nusrat Jahan Riya.pdf'
 								target='_blank'
 								rel='noopener noreferrer'
 								className='no-underline text-sm font-medium text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-all duration-200 px-2 py-1 rounded-md hover:bg-gray-100 dark:hover:bg-gray-800 animate-in fade-in delay-700'>
