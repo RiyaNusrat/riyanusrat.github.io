@@ -9,7 +9,13 @@
 		"lineWidth": 120,
 		"attributePosition": "auto"
 	},
-	"assist": { "actions": { "source": { "organizeImports": "off" } } },
+	"assist": {
+		"actions": {
+			"source": {
+				"organizeImports": "off"
+			}
+		}
+	},
 	"linter": {
 		"enabled": true,
 		"rules": {
@@ -115,7 +121,9 @@
 		}
 	},
 	"javascript": {
-		"globals": ["node"],
+		"globals": [
+			"node"
+		],
 		"formatter": {
 			"jsxQuoteStyle": "single",
 			"quoteProperties": "asNeeded",
@@ -135,9 +143,18 @@
 		}
 	},
 	"overrides": [
-		{ "includes": ["**/*.{js,cjs,mjs,ts,mts,jsx,tsx}"] },
 		{
-			"includes": ["**/*.ts", "**/*.tsx", "**/*.mts", "**/*.cts"],
+			"includes": [
+				"**/*.{js,cjs,mjs,ts,mts,jsx,tsx}"
+			]
+		},
+		{
+			"includes": [
+				"**/*.ts",
+				"**/*.tsx",
+				"**/*.mts",
+				"**/*.cts"
+			],
 			"linter": {
 				"rules": {
 					"correctness": {
@@ -177,6 +194,12 @@
 		"useIgnoreFile": true
 	},
 	"files": {
-		"includes": ["**", "!**/build", "!**/dist", "!**/node_modules"]
+		"includes": [
+			"**",
+			"!**/build",
+			"!**/dist",
+			"!**/node_modules",
+			"!**/*.pdf"
+		]
 	}
 }
